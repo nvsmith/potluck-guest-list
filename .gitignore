@@ -1,0 +1,30 @@
+# Last updated: October 24, 2023 
+
+### Remove the following directories & files from Git tracking
+
+### General 
+.DS_Store
+.AppleDouble
+.LSOverride
+Desktop.ini
+LICENSE
+
+### Thumbnail cache files
+.\_\*
+Thumbs.db
+
+### Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+### Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
